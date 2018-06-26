@@ -53,7 +53,6 @@ export default {
             .getMessages()
             .then(res => {
                 res.data.forEach((obj) => {
-                    console.log(obj)
                     this.messages.push({
                         id: obj._id,
                         username: obj.userId.username,
