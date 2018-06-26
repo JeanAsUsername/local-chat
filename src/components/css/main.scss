@@ -1,0 +1,15 @@
+// fonts
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Roboto|Ubuntu');
+// fonts vals
+$ubuntu: 'Ubuntu', sans-serif;
+$roboto: 'Roboto', sans-serif;
+ // colors vals
+$normal-white: rgb(210, 210, 210);
+$normal-black: rgb(20, 20, 20);
+//reset css
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
