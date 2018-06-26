@@ -25,7 +25,7 @@ export default {
 
             localStorage.removeItem('user')
             localStorage.setItem('user', JSON.stringify(newUser))
-
+            this.$router.push('/chat')
         })
 
         this.io.on('userDeleted', () => {
