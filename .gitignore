@@ -1,3 +1,7 @@
 node_modules
 .editorconfig
 README.md
+node_modules
+package-lock.json
+local-chat-92646-firebase-adminsdk-x39ad-929555645e.json
+conf.json

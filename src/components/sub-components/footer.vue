@@ -1,7 +1,7 @@
 
 <template>
     <footer>
-        <p class="footer__copyright">@2018 pepefundation all rights reserved</p>
+        <p class="footer__copyright">@2018 Lorem Ipsum</p>
     </footer>
 </template>
 
